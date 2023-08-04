@@ -1,0 +1,380 @@
+Wk,Home,xGh,Score,xGa,Away,Attendance,Referee
+1,Crystal Palace,1.2,0–2,1,Arsenal,"25,286",Anthony Taylor
+1,Fulham,1.2,2–2,1.2,Liverpool,"22,207",Andy Madley
+1,Tottenham,1.5,4–1,0.5,Southampton,"61,732",Andre Marriner
+1,Newcastle Utd,1.7,2–0,0.3,Nott'ham Forest,"52,245",Simon Hooper
+1,Leeds United,0.8,2–1,1.3,Wolves,"36,347",Robert Jones
+1,Bournemouth,0.6,2–0,0.7,Aston Villa,"11,013",Peter Bankes
+1,Everton,0.7,0–1,1.5,Chelsea,"39,254",Craig Pawson
+1,Leicester City,0.6,2–2,0.8,Brentford,"31,794",Jarred Gillett
+1,Manchester Utd,1.4,1–2,1.5,Brighton,"73,711",Paul Tierney
+1,West Ham,0.5,0–2,2.2,Manchester City,"62,443",Michael Oliver
+2,Aston Villa,2.3,2–1,1.6,Everton,"41,883",Michael Oliver
+2,Manchester City,1.7,4–0,0.1,Bournemouth,"53,453",David Coote
+2,Southampton,1.2,2–2,1.8,Leeds United,"30,815",Tony Harrington
+2,Wolves,0.9,0–0,1.5,Fulham,"31,178",John Brooks
+2,Arsenal,2.7,4–2,0.5,Leicester City,"60,033",Darren England
+2,Brighton,1.5,0–0,0.2,Newcastle Utd,"31,552",Graham Scott
+2,Brentford,1.6,4–0,0.9,Manchester Utd,"17,051",Stuart Attwell
+2,Nott'ham Forest,1.3,1–0,2.1,West Ham,"29,281",Robert Jones
+2,Chelsea,1.6,2–2,1,Tottenham,"39,946",Anthony Taylor
+2,Liverpool,2,1–1,1,Crystal Palace,"52,970",Paul Tierney
+3,Tottenham,1.7,1–0,0.7,Wolves,"61,298",Simon Hooper
+3,Leicester City,0.3,1–2,0.9,Southampton,"30,850",Michael Salisbury
+3,Everton,1.5,1–1,1,Nott'ham Forest,"39,271",Andre Marriner
+3,Crystal Palace,2.6,3–1,0.9,Aston Villa,"22,012",Andy Madley
+3,Fulham,2.4,3–2,1.8,Brentford,"21,798",Peter Bankes
+3,Bournemouth,0.3,0–3,1.3,Arsenal,"10,423",Craig Pawson
+3,Leeds United,2.1,3–0,0.9,Chelsea,"36,372",Stuart Attwell
+3,West Ham,0.8,0–2,1.7,Brighton,"62,449",Anthony Taylor
+3,Newcastle Utd,1.8,3–3,2.1,Manchester City,"52,258",Jarred Gillett
+3,Manchester Utd,1.8,2–1,1.3,Liverpool,"74,147",Michael Oliver
+4,Southampton,1.4,0–1,1.1,Manchester Utd,"31,196",Andy Madley
+4,Manchester City,2.2,4–2,0.1,Crystal Palace,"53,112",Darren England
+4,Brighton,2,1–0,1.8,Leeds United,"30,953",Michael Salisbury
+4,Chelsea,1.8,2–1,2.5,Leicester City,"39,953",Paul Tierney
+4,Brentford,2.1,1–1,1.1,Everton,"17,009",John Brooks
+4,Liverpool,3.3,9–0,0.3,Bournemouth,"53,328",Stuart Attwell
+4,Arsenal,2.6,2–1,0.8,Fulham,"60,164",Jarred Gillett
+4,Wolves,0.7,1–1,1.7,Newcastle Utd,"31,311",Peter Bankes
+4,Aston Villa,0.5,0–1,0.6,West Ham,"41,796",David Coote
+4,Nott'ham Forest,0.9,0–2,2.4,Tottenham,"29,296",Craig Pawson
+5,Fulham,0.7,2–1,1.4,Brighton,"22,224",Thomas Bramall
+5,Crystal Palace,1,1–1,1.4,Brentford,"25,043",Simon Hooper
+5,Southampton,1.1,2–1,1.1,Chelsea,"31,542",Michael Oliver
+5,Leeds United,1,1–1,1,Everton,"36,338",Darren England
+5,Bournemouth,0.4,0–0,1.5,Wolves,"10,113",Anthony Taylor
+5,Manchester City,3.3,6–0,0.7,Nott'ham Forest,"53,409",Paul Tierney
+5,Arsenal,2.4,2–1,0.4,Aston Villa,"60,012",Robert Jones
+5,West Ham,1.2,1–1,0.6,Tottenham,"62,450",Peter Bankes
+5,Liverpool,1.5,2–1,0.7,Newcastle Utd,"53,316",Andre Marriner
+5,Leicester City,0.7,0–1,1.5,Manchester Utd,"32,226",Craig Pawson
+6,Everton,1.7,0–0,2.1,Liverpool,"39,240",Anthony Taylor
+6,Nott'ham Forest,1.9,2–3,0.8,Bournemouth,"28,720",Michael Oliver
+6,Wolves,0.8,1–0,1.2,Southampton,"30,546",John Brooks
+6,Newcastle Utd,2.8,0–0,1,Crystal Palace,"51,863",Michael Salisbury
+6,Brentford,2.3,5–2,1.7,Leeds United,"17,092",Robert Jones
+6,Tottenham,2.9,2–1,0.7,Fulham,"61,641",Stuart Attwell
+6,Chelsea,0.9,2–1,1.1,West Ham,"39,923",Andy Madley
+6,Aston Villa,0.3,1–1,2.1,Manchester City,"41,830",Simon Hooper
+6,Brighton,2.6,5–2,1.4,Leicester City,"31,185",Tony Harrington
+6,Manchester Utd,1.5,3–1,1.3,Arsenal,"73,431",Paul Tierney
+8,Aston Villa,1.5,1–0,0.3,Southampton,"40,758",Tony Harrington
+8,Nott'ham Forest,1.4,2–3,0.9,Fulham,"28,654",Jarred Gillett
+8,Wolves,0.4,0–3,1.1,Manchester City,"31,578",Anthony Taylor
+8,Newcastle Utd,1.9,1–1,0.7,Bournemouth,"52,238",Craig Pawson
+8,Tottenham,2.2,6–2,1.8,Leicester City,"61,450",Simon Hooper
+8,Brentford,0.5,0–3,1.5,Arsenal,"17,122",David Coote
+8,Everton,0.4,1–0,1,West Ham,"39,298",Michael Oliver
+9,Arsenal,2.4,3–1,1.6,Tottenham,"60,278",Anthony Taylor
+9,Southampton,1.7,1–2,2,Everton,"30,510",Andre Marriner
+9,Crystal Palace,0.4,1–2,1.1,Chelsea,"25,198",Chris Kavanagh
+9,Liverpool,1.5,3–3,1.4,Brighton,"53,320",Andy Madley
+9,Fulham,0.5,1–4,3.3,Newcastle Utd,"22,913",Darren England
+9,Bournemouth,0.4,0–0,0.9,Brentford,"10,126",Thomas Bramall
+9,West Ham,0.9,2–0,0.7,Wolves,"62,444",Paul Tierney
+9,Manchester City,3.2,6–3,1.7,Manchester Utd,"53,475",Michael Oliver
+9,Leeds United,0.4,0–0,2.2,Aston Villa,"36,582",Stuart Attwell
+9,Leicester City,1.3,4–0,1.1,Nott'ham Forest,"32,202",Robert Jones
+10,Bournemouth,1.1,2–1,1,Leicester City,"10,272",Michael Salisbury
+10,Newcastle Utd,1.5,5–1,1.2,Brentford,"52,067",John Brooks
+10,Manchester City,2.4,4–0,0.2,Southampton,"53,365",Andy Madley
+10,Chelsea,1.9,3–0,1.1,Wolves,"39,940",Simon Hooper
+10,Brighton,0.7,0–1,0.8,Tottenham,"31,498",Tony Harrington
+10,West Ham,2.4,3–1,0.7,Fulham,"62,407",Chris Kavanagh
+10,Crystal Palace,1.1,2–1,1,Leeds United,"25,042",Paul Tierney
+10,Arsenal,2.7,3–2,1.1,Liverpool,"60,059",Michael Oliver
+10,Everton,0.6,1–2,1.4,Manchester Utd,"39,258",David Coote
+10,Nott'ham Forest,0.3,1–1,0.7,Aston Villa,"29,208",Anthony Taylor
+11,Brentford,1.5,2–0,1.9,Brighton,"17,016",Michael Salisbury
+11,Leicester City,1,0–0,0.4,Crystal Palace,"31,298",Andy Madley
+11,Fulham,2.1,2–2,1,Bournemouth,"22,541",Graham Scott
+11,Wolves,1.3,1–0,1.5,Nott'ham Forest,"31,554",Thomas Bramall
+11,Tottenham,2.2,2–0,0.4,Everton,"61,812",Paul Tierney
+11,Southampton,0.5,1–1,1.7,West Ham,"29,159",Peter Bankes
+11,Aston Villa,1.8,0–2,0.9,Chelsea,"41,754",Robert Jones
+11,Leeds United,1.8,0–1,0.5,Arsenal,"36,700",Chris Kavanagh
+11,Manchester Utd,0.8,0–0,0.8,Newcastle Utd,"73,726",Craig Pawson
+11,Liverpool,2.1,1–0,1,Manchester City,"53,286",Anthony Taylor
+12,Brighton,1.7,0–0,0.1,Nott'ham Forest,"31,463",Darren England
+12,Crystal Palace,1.2,2–1,0.8,Wolves,"25,125",David Coote
+12,Bournemouth,1,0–1,1,Southampton,"10,405",John Brooks
+12,Brentford,1.3,0–0,0.9,Chelsea,"17,118",Jarred Gillett
+12,Liverpool,1.7,1–0,1.7,West Ham,"52,982",Stuart Attwell
+12,Newcastle Utd,1.5,1–0,0.2,Everton,"52,247",Tony Harrington
+12,Manchester Utd,1.5,2–0,0.6,Tottenham,"73,677",Simon Hooper
+12,Fulham,2.1,3–0,1.2,Aston Villa,"23,508",Michael Oliver
+12,Leicester City,0.8,2–0,1.3,Leeds United,"30,814",Peter Bankes
+13,Nott'ham Forest,1.9,1–0,1.6,Liverpool,"29,245",Paul Tierney
+13,Everton,1.4,3–0,0.9,Crystal Palace,"38,939",Simon Hooper
+13,Manchester City,1.6,3–1,0.5,Brighton,"53,223",Craig Pawson
+13,Chelsea,1.1,1–1,0.8,Manchester Utd,"39,503",Stuart Attwell
+13,Aston Villa,2.8,4–0,0.9,Brentford,"41,693",Darren England
+13,Wolves,2.1,0–4,0.9,Leicester City,"31,425",Michael Oliver
+13,Leeds United,1.6,2–3,1.8,Fulham,"36,447",Anthony Taylor
+13,Southampton,0.7,1–1,1,Arsenal,"31,145",Robert Jones
+13,Tottenham,1.6,1–2,1.2,Newcastle Utd,"61,726",Jarred Gillett
+13,West Ham,1.9,2–0,0.4,Bournemouth,"62,447",David Coote
+14,Leicester City,0.7,0–1,1,Manchester City,"32,223",Robert Jones
+14,Brentford,1.4,1–1,0.6,Wolves,"17,051",Robert Madley
+14,Crystal Palace,0.9,1–0,1.3,Southampton,"25,130",Michael Salisbury
+14,Newcastle Utd,3.4,4–0,0.4,Aston Villa,"52,233",Paul Tierney
+14,Brighton,2.4,4–1,1.4,Chelsea,"31,746",Andy Madley
+14,Bournemouth,0.5,2–3,2,Tottenham,"10,430",Anthony Taylor
+14,Fulham,1.9,0–0,0.9,Everton,"23,534",John Brooks
+14,Liverpool,1.7,1–2,1.8,Leeds United,"53,274",Michael Oliver
+14,Arsenal,2.3,5–0,0.4,Nott'ham Forest,"60,263",Simon Hooper
+14,Manchester Utd,1.2,1–0,1.1,West Ham,"73,682",Chris Kavanagh
+15,Nott'ham Forest,1.5,2–2,1.5,Brentford,"28,869",Andre Marriner
+15,Leeds United,2.2,4–3,1.5,Bournemouth,"36,304",Tony Harrington
+15,Manchester City,2.1,2–1,1,Fulham,"52,395",Darren England
+15,Wolves,1.2,2–3,1.5,Brighton,"30,732",Graham Scott
+15,Everton,1.2,0–2,2.3,Leicester City,"39,206",David Coote
+15,Chelsea,0.3,0–1,2.1,Arsenal,"40,142",Michael Oliver
+15,West Ham,0.3,1–2,1,Crystal Palace,"62,451",Paul Tierney
+15,Southampton,1.7,1–4,0.9,Newcastle Utd,"30,402",Stuart Attwell
+15,Aston Villa,0.6,3–1,0.5,Manchester Utd,"42,058",Anthony Taylor
+15,Tottenham,1.2,1–2,1.2,Liverpool,"62,008",Andy Madley
+16,Manchester City,1.6,1–2,1.3,Brentford,"52,786",Peter Bankes
+16,Tottenham,1.8,4–3,1.1,Leeds United,"61,667",Michael Salisbury
+16,Liverpool,1.9,3–1,1.1,Southampton,"53,331",Simon Hooper
+16,Bournemouth,2.4,3–0,0.8,Everton,"10,382",Craig Pawson
+16,West Ham,1.4,0–2,1.8,Leicester City,"62,459",Jarred Gillett
+16,Nott'ham Forest,1.1,1–0,1.2,Crystal Palace,"29,045",John Brooks
+16,Newcastle Utd,1,1–0,0.3,Chelsea,"52,264",Robert Jones
+16,Wolves,0.7,0–2,2.1,Arsenal,"34,624",Stuart Attwell
+16,Brighton,0.6,1–2,1.5,Aston Villa,"31,581",Chris Kavanagh
+16,Fulham,1.4,1–2,2.5,Manchester Utd,"24,246",Paul Tierney
+17,Brentford,2,2–2,1.1,Tottenham,"17,137",David Coote
+17,Southampton,1.9,1–3,0.6,Brighton,"31,010",Robert Jones
+17,Leicester City,0.5,0–3,1.9,Newcastle Utd,"32,185",Jarred Gillett
+17,Crystal Palace,0.4,0–3,2.5,Fulham,"25,176",Andy Madley
+17,Everton,1.7,1–2,0.8,Wolves,"39,252",Craig Pawson
+17,Aston Villa,1.4,1–3,2.7,Liverpool,"42,085",Paul Tierney
+17,Arsenal,2.1,3–1,1,West Ham,"60,125",Michael Oliver
+17,Chelsea,1.8,2–0,0.5,Bournemouth,"40,046",Simon Hooper
+17,Manchester Utd,2.4,3–0,0.7,Nott'ham Forest,"73,608",Anthony Taylor
+17,Leeds United,0.6,1–3,4.3,Manchester City,"36,889",Stuart Attwell
+18,West Ham,1.3,0–2,1.6,Brentford,"62,467",Darren England
+18,Liverpool,2.2,2–1,1,Leicester City,"53,343",Craig Pawson
+18,Wolves,0.7,0–1,2,Manchester Utd,"31,658",Robert Jones
+18,Newcastle Utd,2.2,0–0,0.4,Leeds United,"52,211",Simon Hooper
+18,Fulham,1.5,2–1,0.8,Southampton,"24,344",Graham Scott
+18,Manchester City,1.7,1–1,0.1,Everton,"53,444",Andy Madley
+18,Bournemouth,0.6,0–2,1.6,Crystal Palace,"9,972",Andre Marriner
+18,Brighton,1.2,2–4,2.9,Arsenal,"31,647",Anthony Taylor
+18,Tottenham,0.7,0–2,1,Aston Villa,"61,651",John Brooks
+18,Nott'ham Forest,1.4,1–1,0.9,Chelsea,"29,229",Peter Bankes
+19,Brentford,1.7,3–1,2,Liverpool,"17,163",Stuart Attwell
+19,Leicester City,1.7,0–1,1.7,Fulham,"30,813",Darren Bond
+19,Everton,1.3,1–4,2.2,Brighton,"39,103",Andre Marriner
+19,Arsenal,1.1,0–0,1,Newcastle Utd,"60,319",Andy Madley
+19,Manchester Utd,2.2,3–0,0.6,Bournemouth,"73,322",Michael Salisbury
+19,Southampton,0.5,0–1,1.4,Nott'ham Forest,"30,150",Thomas Bramall
+19,Leeds United,1.6,2–2,1.4,West Ham,"36,173",David Coote
+19,Aston Villa,1.8,1–1,0.9,Wolves,"39,978",Jarred Gillett
+19,Crystal Palace,0.8,0–4,1.4,Tottenham,"25,132",Michael Oliver
+19,Chelsea,0.4,0–1,2.1,Manchester City,"39,998",Paul Tierney
+7,Fulham,1,2–1,2.1,Chelsea,"24,460",David Coote
+20,Aston Villa,1.2,2–1,2.4,Leeds United,"42,008",Michael Oliver
+20,Manchester Utd,1.7,2–1,0.6,Manchester City,"75,546",Stuart Attwell
+20,Everton,1.4,1–2,1.2,Southampton,"39,305",John Brooks
+20,Wolves,0.9,1–0,1.1,West Ham,"31,511",Simon Hooper
+20,Nott'ham Forest,2.4,2–0,1,Leicester City,"29,301",Paul Tierney
+20,Brighton,1.9,3–0,1,Liverpool,"31,645",Darren England
+20,Brentford,1.4,2–0,0.6,Bournemouth,"17,031",Jarred Gillett
+20,Chelsea,1.5,1–0,0.7,Crystal Palace,"40,075",Peter Bankes
+20,Newcastle Utd,2.2,1–0,1.1,Fulham,"52,247",Robert Jones
+20,Tottenham,1.6,0–2,1.8,Arsenal,"61,870",Craig Pawson
+7,Crystal Palace,0.5,1–1,2.1,Manchester Utd,"23,343",Robert Jones
+7,Manchester City,2.3,4–2,0.8,Tottenham,"53,088",Simon Hooper
+21,Liverpool,1.4,0–0,1.6,Chelsea,"53,126",Michael Oliver
+21,Bournemouth,1.4,1–1,1.9,Nott'ham Forest,"10,248",Andy Madley
+21,Southampton,0.6,0–1,1.4,Aston Villa,"30,158",Michael Salisbury
+21,Leicester City,0.9,2–2,1.7,Brighton,"32,056",Thomas Bramall
+21,West Ham,2.2,2–0,0.5,Everton,"62,470",Stuart Attwell
+21,Crystal Palace,0.3,0–0,1.2,Newcastle Utd,"25,350",Craig Pawson
+21,Manchester City,2.8,3–0,0.8,Wolves,"53,282",David Coote
+21,Leeds United,0.5,0–0,0.4,Brentford,"36,260",Peter Bankes
+21,Arsenal,3.1,3–2,0.4,Manchester Utd,"60,325",Anthony Taylor
+21,Fulham,1,0–1,0.9,Tottenham,"24,190",Paul Tierney
+22,Chelsea,1.3,0–0,0.6,Fulham,"40,041",Stuart Attwell
+22,Everton,1.7,1–0,0.9,Arsenal,"39,314",David Coote
+22,Aston Villa,1.7,2–4,2.6,Leicester City,"42,055",Darren England
+22,Wolves,2,3–0,1.8,Liverpool,"31,664",Paul Tierney
+22,Manchester Utd,2,2–1,1.3,Crystal Palace,"73,420",Andre Marriner
+22,Brighton,2.2,1–0,1.1,Bournemouth,"31,600",Craig Pawson
+22,Brentford,2.2,3–0,0.7,Southampton,"17,051",Darren Bond
+22,Newcastle Utd,1,1–1,1,West Ham,"52,256",Peter Bankes
+22,Nott'ham Forest,0.4,1–0,0.9,Leeds United,"29,363",Robert Jones
+22,Tottenham,1.4,1–0,1.3,Manchester City,"61,747",Andy Madley
+8,Manchester Utd,2,2–2,0.6,Leeds United,"73,456",Simon Hooper
+23,West Ham,1.3,1–1,1.1,Chelsea,"62,471",Craig Pawson
+23,Leicester City,1.7,4–1,1.3,Tottenham,"32,184",Michael Salisbury
+23,Crystal Palace,1.1,1–1,2.5,Brighton,"24,827",Michael Oliver
+23,Arsenal,1.6,1–1,2,Brentford,"60,254",Peter Bankes
+23,Southampton,1.1,1–2,0.8,Wolves,"29,751",Jarred Gillett
+23,Fulham,1.5,2–0,0.7,Nott'ham Forest,"24,244",Andy Madley
+23,Bournemouth,1.5,1–1,1.3,Newcastle Utd,"10,419",Stuart Attwell
+23,Leeds United,1.8,0–2,1.1,Manchester Utd,"36,919",Paul Tierney
+23,Manchester City,3.3,3–1,0.3,Aston Villa,"53,392",Robert Jones
+23,Liverpool,2.3,2–0,0.4,Everton,"53,027",Simon Hooper
+12,Arsenal,1.6,1–3,1.8,Manchester City,"60,276",Anthony Taylor
+24,Aston Villa,0.5,2–4,3.2,Arsenal,"42,066",Simon Hooper
+24,Brighton,2.2,0–1,0.3,Fulham,"31,619",Darren England
+24,Nott'ham Forest,0.9,1–1,2.4,Manchester City,"29,365",Graham Scott
+24,Chelsea,1.6,0–1,0.6,Southampton,"40,152",David Coote
+24,Everton,1.4,1–0,0.5,Leeds United,"39,232",Andy Madley
+24,Wolves,1.3,0–1,1.1,Bournemouth,"31,222",Michael Salisbury
+24,Brentford,0.9,1–1,1.1,Crystal Palace,"17,122",Paul Tierney
+24,Newcastle Utd,2,0–2,1.9,Liverpool,"52,758",Anthony Taylor
+24,Manchester Utd,4.4,3–0,1.6,Leicester City,"73,578",Stuart Attwell
+24,Tottenham,1.5,2–0,0.5,West Ham,"61,476",Michael Oliver
+25,Fulham,0.5,1–1,0.8,Wolves,"24,399",Michael Oliver
+25,Leicester City,0,0–1,0.7,Arsenal,"32,227",Craig Pawson
+25,Everton,1.6,0–2,1.9,Aston Villa,"39,309",Anthony Taylor
+25,West Ham,2.7,4–0,0.4,Nott'ham Forest,"62,469",Jarred Gillett
+25,Leeds United,0.9,1–0,0.4,Southampton,"36,641",Peter Bankes
+25,Bournemouth,1,1–4,2.4,Manchester City,"10,481",Paul Tierney
+25,Crystal Palace,0.7,0–0,0.9,Liverpool,"25,842",Darren England
+25,Tottenham,0.8,2–0,0.4,Chelsea,"61,613",Stuart Attwell
+7,Arsenal,2.6,4–0,1.2,Everton,"60,213",Michael Oliver
+7,Liverpool,2.6,2–0,0.8,Wolves,"53,259",Paul Tierney
+26,Manchester City,1.3,2–0,0.4,Newcastle Utd,"53,419",Simon Hooper
+26,Arsenal,2.1,3–2,1.3,Bournemouth,"60,222",Chris Kavanagh
+26,Aston Villa,1.2,1–0,0.2,Crystal Palace,"41,893",Craig Pawson
+26,Chelsea,1.5,1–0,1,Leeds United,"39,905",Michael Oliver
+26,Brighton,3.5,4–0,0.3,West Ham,"31,523",Stuart Attwell
+26,Wolves,0.5,1–0,1.2,Tottenham,"31,585",Tim Robinson
+26,Southampton,1.4,1–0,1.9,Leicester City,"30,139",Robert Jones
+26,Nott'ham Forest,0.8,2–2,1.7,Everton,"29,353",John Brooks
+26,Liverpool,2.8,7–0,0.8,Manchester Utd,"53,001",Andy Madley
+26,Brentford,2.2,3–2,1.4,Fulham,"17,025",Anthony Taylor
+27,Bournemouth,0.9,1–0,1.7,Liverpool,"10,536",John Brooks
+27,Leeds United,0.9,2–2,2.7,Brighton,"36,471",Paul Tierney
+27,Everton,1,1–0,2,Brentford,"39,274",Simon Hooper
+27,Leicester City,2.4,1–3,1.6,Chelsea,"32,170",Andre Marriner
+27,Tottenham,2,3–1,1.5,Nott'ham Forest,"61,460",Craig Pawson
+27,Crystal Palace,0.2,0–1,2.1,Manchester City,"25,844",Robert Jones
+27,Manchester Utd,0.8,0–0,1,Southampton,"73,439",Anthony Taylor
+27,Fulham,0.8,0–3,2.3,Arsenal,"24,426",David Coote
+27,West Ham,2.1,1–1,1.5,Aston Villa,"62,472",Chris Kavanagh
+27,Newcastle Utd,1.8,2–1,1.1,Wolves,"52,240",Andy Madley
+7,Southampton,0.5,0–2,1.9,Brentford,"30,438",Michael Salisbury
+8,Brighton,0.6,1–0,1.1,Crystal Palace,"30,933",Peter Bankes
+28,Nott'ham Forest,0.4,1–2,2.4,Newcastle Utd,"29,362",Paul Tierney
+28,Wolves,2.7,2–4,1.6,Leeds United,"31,570",Michael Salisbury
+28,Brentford,0.6,1–1,1.3,Leicester City,"17,006",Darren Bond
+28,Aston Villa,3.5,3–0,1.3,Bournemouth,"41,021",Robert Jones
+28,Southampton,2.4,3–3,2.3,Tottenham,"30,157",Simon Hooper
+28,Chelsea,2.3,2–2,1.2,Everton,"40,025",Darren England
+28,Arsenal,1.6,4–1,0.8,Crystal Palace,"60,247",Stuart Attwell
+29,Manchester City,2.9,4–1,0.3,Liverpool,"52,877",Simon Hooper
+29,Arsenal,3.8,4–1,0.7,Leeds United,"60,283",Darren England
+29,Nott'ham Forest,1.3,1–1,0.5,Wolves,"29,368",Chris Kavanagh
+29,Brighton,4.2,3–3,1.6,Brentford,"31,493",Michael Oliver
+29,Crystal Palace,2.3,2–1,0.2,Leicester City,"25,147",Tim Robinson
+29,Bournemouth,2.6,2–1,0.8,Fulham,"10,305",Peter Bankes
+29,Chelsea,2.1,0–2,0.9,Aston Villa,"40,082",Andy Madley
+29,West Ham,1.4,1–0,0.3,Southampton,"62,498",Paul Tierney
+29,Newcastle Utd,3.7,2–0,0.4,Manchester Utd,"52,268",Stuart Attwell
+29,Everton,0.9,1–1,1.4,Tottenham,"39,294",David Coote
+7,Leeds United,1.8,2–1,0.8,Nott'ham Forest,"36,740",Robert Jones
+7,Bournemouth,1.7,0–2,2.7,Brighton,"10,266",Darren Bond
+7,Leicester City,0.5,1–2,1,Aston Villa,"32,087",Graham Scott
+8,Chelsea,2.2,0–0,0.3,Liverpool,"40,093",Anthony Taylor
+7,West Ham,1,1–5,3.3,Newcastle Utd,"62,481",Craig Pawson
+25,Manchester Utd,1.2,1–0,0.7,Brentford,"73,309",John Brooks
+30,Manchester Utd,3.4,2–0,1,Everton,"73,509",Michael Oliver
+30,Fulham,0.7,0–1,1.1,West Ham,"24,491",Jarred Gillett
+30,Aston Villa,1.3,2–0,0.2,Nott'ham Forest,"42,076",Anthony Taylor
+30,Leicester City,0.7,0–1,2,Bournemouth,"32,094",David Coote
+30,Brentford,2.6,1–2,1.3,Newcastle Utd,"17,107",Chris Kavanagh
+30,Wolves,0.6,1–0,1.1,Chelsea,"31,614",Peter Bankes
+30,Tottenham,0.8,2–1,1.4,Brighton,"61,405",Stuart Attwell
+30,Southampton,0.4,1–4,2.9,Manchester City,"30,963",Robert Jones
+30,Leeds United,0.9,1–5,3,Crystal Palace,"36,427",Simon Hooper
+30,Liverpool,3.9,2–2,1.4,Arsenal,"53,267",Paul Tierney
+31,Aston Villa,1.9,3–0,0.5,Newcastle Utd,"42,055",John Brooks
+31,Chelsea,0.5,1–2,2.9,Brighton,"40,126",Robert Jones
+31,Southampton,0.8,0–2,0.9,Crystal Palace,"30,309",Michael Oliver
+31,Wolves,0.8,2–0,1.1,Brentford,"30,769",Paul Tierney
+31,Tottenham,2.2,2–3,1.3,Bournemouth,"61,369",Andy Madley
+31,Everton,1.4,1–3,1.8,Fulham,"39,241",Anthony Taylor
+31,Manchester City,1.6,3–1,2.3,Leicester City,"53,329",Darren England
+31,West Ham,1.8,2–2,2.7,Arsenal,"62,481",David Coote
+31,Nott'ham Forest,0.7,0–2,3.5,Manchester Utd,"29,435",Simon Hooper
+31,Leeds United,1.4,1–6,2.7,Liverpool,"36,657",Craig Pawson
+32,Arsenal,2.5,3–3,1.3,Southampton,"60,175",Simon Hooper
+32,Fulham,1.7,2–1,0.8,Leeds United,"24,356",Peter Bankes
+32,Crystal Palace,0.5,0–0,0.4,Everton,"25,202",John Brooks
+32,Brentford,2.7,1–1,1.5,Aston Villa,"17,098",Michael Salisbury
+32,Liverpool,2.8,3–2,0.9,Nott'ham Forest,"53,254",Michael Oliver
+32,Leicester City,2.4,2–1,0.9,Wolves,"32,053",Andy Madley
+32,Bournemouth,1.5,0–4,2.4,West Ham,"10,465",Anthony Taylor
+32,Newcastle Utd,3.7,6–1,1,Tottenham,"52,252",David Coote
+33,Wolves,1.4,2–0,0.8,Crystal Palace,"30,294",Robert Jones
+33,Aston Villa,1,1–0,0.1,Fulham,"41,046",Thomas Bramall
+33,Leeds United,1.5,1–1,2.1,Leicester City,"36,666",Paul Tierney
+33,Nott'ham Forest,2.4,3–1,2.3,Brighton,"28,808",Jarred Gillett
+33,Chelsea,1.3,0–2,1.1,Brentford,"39,929",Andy Madley
+33,West Ham,0.8,1–2,1.9,Liverpool,"62,473",Chris Kavanagh
+33,Manchester City,2.5,4–1,0.5,Arsenal,"53,482",Michael Oliver
+33,Everton,0.9,1–4,2.4,Newcastle Utd,"39,248",Andre Marriner
+33,Southampton,0.5,0–1,0.9,Bournemouth,"30,414",Darren England
+33,Tottenham,2.5,2–2,2,Manchester Utd,"61,586",Anthony Taylor
+34,Crystal Palace,2.1,4–3,1.7,West Ham,"25,148",Craig Pawson
+34,Brighton,3.3,6–0,0.8,Wolves,"31,584",David Coote
+34,Brentford,1.6,2–1,0.7,Nott'ham Forest,"17,080",Peter Bankes
+34,Manchester Utd,1.2,1–0,0.6,Aston Villa,"73,592",Jarred Gillett
+34,Bournemouth,1.9,4–1,1.6,Leeds United,"10,434",Chris Kavanagh
+34,Newcastle Utd,4.3,3–1,0.8,Southampton,"52,234",Anthony Taylor
+34,Fulham,0.2,1–2,2.5,Manchester City,"24,498",Simon Hooper
+34,Liverpool,2.2,4–3,2,Tottenham,"53,275",Paul Tierney
+34,Leicester City,3.4,2–2,3.1,Everton,"32,173",Michael Oliver
+34,Arsenal,1.7,3–1,0.8,Chelsea,"60,144",Robert Jones
+28,Liverpool,1.8,1–0,0.9,Fulham,"52,602",Stuart Attwell
+28,Manchester City,2.3,3–0,0.4,West Ham,"53,305",John Brooks
+28,Brighton,2.3,1–0,1.4,Manchester Utd,"31,577",Andre Marriner
+35,Tottenham,0.9,1–0,0.4,Crystal Palace,"61,093",Darren England
+35,Wolves,0.8,1–0,1.5,Aston Villa,"31,641",Stuart Attwell
+35,Bournemouth,1.2,1–3,1.3,Chelsea,"10,357",John Brooks
+35,Manchester City,2.6,2–1,0.2,Leeds United,"53,406",Andy Madley
+35,Liverpool,2.2,1–0,0.2,Brentford,"52,838",Anthony Taylor
+35,Newcastle Utd,1.3,0–2,1.3,Arsenal,"50,267",Chris Kavanagh
+35,West Ham,1.3,1–0,1.2,Manchester Utd,"62,477",Peter Bankes
+35,Fulham,1.6,5–3,2.8,Leicester City,"24,442",Robert Jones
+35,Brighton,3.2,1–5,2.3,Everton,"31,567",Simon Hooper
+35,Nott'ham Forest,1.8,4–3,3.1,Southampton,"29,154",Michael Oliver
+36,Leeds United,2.1,2–2,2.4,Newcastle Utd,"36,955",Simon Hooper
+36,Aston Villa,1.2,2–1,1.4,Tottenham,"42,164",Peter Bankes
+36,Chelsea,1.2,2–2,1.3,Nott'ham Forest,"40,030",Paul Tierney
+36,Crystal Palace,1.5,2–0,0.3,Bournemouth,"25,034",Michael Salisbury
+36,Southampton,0.4,0–2,1.4,Fulham,"28,978",Thomas Bramall
+36,Manchester Utd,3.2,2–0,0.3,Wolves,"73,570",John Brooks
+36,Everton,1.6,0–3,0.8,Manchester City,"39,376",Anthony Taylor
+36,Brentford,3.4,2–0,0.2,West Ham,"17,075",Michael Oliver
+36,Arsenal,0.9,0–3,1.7,Brighton,"60,139",Andy Madley
+36,Leicester City,0.4,0–3,2.2,Liverpool,"32,225",Craig Pawson
+25,Newcastle Utd,3.6,4–1,0.5,Brighton,"52,122",Robert Jones
+37,Tottenham,1.8,1–3,1.3,Brentford,"61,514",Jarred Gillett
+37,Liverpool,0.7,1–1,1.3,Aston Villa,"53,306",John Brooks
+37,Fulham,1.7,2–2,1.6,Crystal Palace,"24,356",Joshua Smith
+37,Bournemouth,1,0–1,1.4,Manchester Utd,"10,240",Chris Kavanagh
+37,Wolves,1.6,1–1,2,Everton,"31,684",David Coote
+37,Nott'ham Forest,0.6,1–0,0.6,Arsenal,"29,514",Anthony Taylor
+37,West Ham,2.1,3–1,0.9,Leeds United,"62,478",Peter Bankes
+37,Brighton,2.5,3–1,0.6,Southampton,"31,507",Paul Tierney
+37,Manchester City,1.2,1–0,1.2,Chelsea,"53,490",Michael Oliver
+37,Newcastle Utd,2.1,0–0,0.1,Leicester City,"52,152",Andre Marriner
+32,Brighton,2.2,1–1,1.8,Manchester City,"31,388",Simon Hooper
+32,Manchester Utd,5.2,4–1,1.9,Chelsea,"73,561",Stuart Attwell
+38,Crystal Palace,1.4,1–1,0.5,Nott'ham Forest,"25,198",Thomas Bramall
+38,Chelsea,2.2,1–1,1.7,Newcastle Utd,"40,130",Jarred Gillett
+38,Manchester Utd,2.9,2–1,1.8,Fulham,"73,465",Robert Jones
+38,Arsenal,2.8,5–0,0.5,Wolves,"60,095",Andre Marriner
+38,Southampton,1.8,4–4,4,Liverpool,"31,129",Darren England
+38,Everton,1,1–0,0.5,Bournemouth,"39,201",Stuart Attwell
+38,Leicester City,1.4,2–1,1.4,West Ham,"32,183",Simon Hooper
+38,Leeds United,1.5,1–4,2.2,Tottenham,"36,871",Anthony Taylor
+38,Brentford,1.3,1–0,1.6,Manchester City,"17,120",John Brooks
